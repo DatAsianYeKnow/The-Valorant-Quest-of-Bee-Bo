@@ -1,0 +1,161 @@
+* {
+    margin: 0px;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    background-image: url("https://cdn1.epicgames.com/ue/product/Screenshot/19204-1920x1080-63f433e69d48bf9a2eac9387fc3652ac.jpg?resize=1&w=1920");
+}
+
+.bg-1 {
+    Height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://img.wallpapersafari.com/desktop/1536/864/9/9/jXC17H.jpg");
+    background-size: cover;
+
+}
+
+.sb {
+    padding: 20px 0;
+    position: fixed;
+    top: 200px;
+    color: white;
+    outline: none;
+    background-color: gray;
+    width: 50%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    left: 400px;
+
+}
+
+.c {
+    padding: 20px 0;
+    position: fixed;
+    top: 400px;
+    color: white;
+    outline: none;
+    background-color: gray;
+    width: 50%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+    left: 400px;
+
+}
+
+.q {
+    padding: 20px 0;
+    position: fixed;
+    top: 600px;
+    color: white;
+    outline: none;
+    background-color: gray;
+    width: 50%;
+    border: 1px solid white;
+    cursor: pointer;
+    font-size: 30px;
+
+    left: 400px;
+}
+
+.yes {
+    width: 15%;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+    background-color: gray;
+    border-color: white;
+    position: fixed;
+    bottom: 80px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.no {
+    width: 15%;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+    background-color: gray;
+    border-color: white;
+    position: fixed;
+    bottom: 2px;
+    right: 30px;
+    cursor: pointer;
+}
+
+.evil-witch {
+    position: fixed;
+    bottom: -10px;
+    left: 25%;
+    width: 20%;
+    height: 65vh;
+}
+
+.title-2 {
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+
+.dia-1 {
+    position: fixed;
+    bottom: 0px;
+    font-size: 30px;
+    border: solid black;
+    width: 75%;
+    color: white;
+    padding: 10px;
+}
+
+.dia-2 {
+    position: fixed;
+    bottom: 0px;
+    font-size: 30px;
+    border: solid black;
+    width: 75%;
+    color: white;
+    padding: 10px;
+}
+
+.dia-3 {
+    position: fixed;
+    bottom: 0px;
+    font-size: 30px;
+    border: solid black;
+    width: 75%;
+    color: white;
+    padding: 10px;
+}
+
+.dia-4 {
+    position: fixed;
+    bottom: 0px;
+    font-size: 30px;
+    border: solid black;
+    width: 75%;
+    color: white;
+    padding: 10px;
+}
+
+.dia-5 {
+    position: fixed;
+    bottom: 0px;
+    font-size: 30px;
+    border: solid black;
+    width: 75%;
+    color: white;
+    padding: 10px;
+}
+
+.shop-list {
+    background-color: white;
+    border: solid black;
+    height: 20%;
+    margin-top: 2%;
+    width: 30%;
+}
